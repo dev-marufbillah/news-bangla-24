@@ -57,8 +57,8 @@
 | ক্যাটাগরি | টেকনোলজি / লাইব্রেরি |
 |-----------|----------------------|
 | Framework | Next.js (App Router) |
-| Language | TypeScript / JavaScript *(প্রজেক্ট অনুযায়ী ঠিক করে নিন)* |
-| Styling | CSS / Tailwind CSS *(প্রজেক্ট অনুযায়ী ঠিক করে নিন)* |
+| Language | TypeScript / JavaScript |
+| Styling | CSS / Tailwind CSS  |
 | News Source | BBC Bangla |
 | Deployment | Vercel |
 
