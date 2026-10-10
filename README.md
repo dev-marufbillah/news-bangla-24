@@ -9,7 +9,7 @@
 ## 🔗 গুরুত্বপূর্ণ লিংক (Important Links)
 
 - 🌐 **লাইভ ওয়েবসাইট (Live Demo):** [https://news-bangla-24-six.vercel.app](https://news-bangla-24-six.vercel.app)
-- 📁 **গিটহাব রিপোজিটোরি (GitHub Repo):** [`https://github.com/<your-username>/<your-repo>`](https://github.com/dev-marufbillah/news-bangla-24.git) 
+- 📁 **গিটহাব রিপোজিটোরি (GitHub Repo):** [`https://github.com/<dev-marufbillah>/<your-repo>`](https://github.com/dev-marufbillah/news-bangla-24.git) 
 
 ## ✨ প্রধান ফিচারসমূহ (Key Features)
 
@@ -128,7 +128,7 @@ npm start
 ## 👨‍💻 ডেভেলপার (Author)
 
 **<আপনার নাম>**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [@dev-marufbillah]([(https://github.com/dev-marufbillah/]
+- Email: marufsalauddin76@gmail.com
 
 © 2026 News Bangla 24
