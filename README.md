@@ -9,7 +9,7 @@
 ## 🔗 গুরুত্বপূর্ণ লিংক (Important Links)
 
 - 🌐 **লাইভ ওয়েবসাইট (Live Demo):** [https://news-bangla-24-six.vercel.app](https://news-bangla-24-six.vercel.app)
-- 📁 **গিটহাব রিপোজিটোরি (GitHub Repo):** [`https://github.com/<dev-marufbillah>/<your-repo>`](https://github.com/dev-marufbillah/news-bangla-24.git) 
+- 📁 **গিটহাব রিপোজিটোরি (GitHub Repo):** [`https://github.com/dev-marufbillah/news-bangla-24.git`]
 
 ## ✨ প্রধান ফিচারসমূহ (Key Features)
 
